@@ -12,7 +12,7 @@ export function LocationsPage() {
       <InternalPageHero
         eyebrow="Unidades"
         title="Duas unidades preparadas para atendimento tecnico com agendamento rapido"
-        description="Escolha a unidade mais proxima em Sao Paulo e fale diretamente com nossa equipe para revisao, diagnostico e servicos preventivos."
+        description="Escolha a unidade mais proxima em São Lourenço da Mata e fale diretamente com nossa equipe para revisao, diagnostico e servicos preventivos."
       />
 
       <Section

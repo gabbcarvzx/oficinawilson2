@@ -13,7 +13,7 @@ export function ServicesPage() {
       <InternalPageHero
         eyebrow="Servicos"
         title="Solucoes tecnicas para cada etapa da manutencao automotiva"
-        description="Atendimento profissional em Sao Paulo, com diagnostico preciso e execucao com garantia para manter seu veiculo seguro e confiavel."
+        description="Atendimento profissional em São Lourenço da Mata, com diagnostico preciso e execucao com garantia para manter seu veiculo seguro e confiavel."
       />
 
       <Section

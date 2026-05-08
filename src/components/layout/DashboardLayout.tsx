@@ -41,7 +41,7 @@ export function DashboardLayout() {
           </button>
         </div>
         <Link to="/dashboard" className="text-xl font-black uppercase tracking-tight text-white" onClick={() => setIsMenuOpen(false)}>
-          Torque Prime Admin
+          Dutra AutoPeças Admin
         </Link>
         <p className="mt-2 text-xs uppercase tracking-[0.2em] text-amber-300">Painel Administrativo</p>
 

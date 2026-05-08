@@ -43,7 +43,7 @@ export function HomePage() {
             className="mt-6 max-w-2xl text-base text-slate-300 sm:text-lg"
           >
             Revisao, diagnostico e reparos com processo transparente, prazo claro e suporte rapido pelo
-            WhatsApp. Oficina mecanica em Sao Paulo para carros nacionais e importados, com duas unidades.
+            WhatsApp. Oficina mecanica em São Lourenço da Mata para carros nacionais e importados, com duas unidades.
           </motion.p>
           <motion.div
             {...fadeInUp}
